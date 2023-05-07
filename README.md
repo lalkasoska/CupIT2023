@@ -15,4 +15,4 @@ We used Pyhton3 and Google Collab for this task. We used such modules as:<br />
 - textstat<br />
 - spellchecker<br />
 
-After training the model acheived a result of NDCG metric of 0.88.
+After training the model acheived NDCG metric value of 0.88.
