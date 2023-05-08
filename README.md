@@ -8,7 +8,7 @@ We used Pyhton3 and Google Collab for this task. We used such modules as:<br />
 - numpy<br />
 - pandas<br />
 - transformers<br /> 
-- torch<br />
+- pytorch<br />
 - matplotlib<br />
 - json<br />
 - textblob<br />
