@@ -3,7 +3,7 @@ Our team participated in the CupIT competition in which we had to develop a lang
 <br /><br />
 We used Pyhton3 and Google Collab for this task. We used such modules as:<br />
 
-- sklearn<br />
+- scikit-learn<br />
 - nltk<br />
 - numpy<br />
 - pandas<br />
