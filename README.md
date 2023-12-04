@@ -16,6 +16,15 @@ We used Pyhton3 and Google Collab for this task. We used such modules as:<br />
 - spellchecker<br />
 
 After training the model acheived NDCG metric value of 0.88.
+# Overview
+![Ранжирование комментариев с помощью ML Кабанда_page-0001](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/407f2e4e-5ea8-4c37-b970-89d298fb1417)
+![Ранжирование комментариев с помощью ML Кабанда_page-0002](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/0eb75356-8111-4100-b996-626bde8a6c45)
+![Ранжирование комментариев с помощью ML Кабанда_page-0003](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/52cafc22-c6ee-4717-b932-33811bfb5712)
+![Ранжирование комментариев с помощью ML Кабанда_page-0004](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/2699ac32-0b9d-45c6-8514-0db48d3ebedd)
+![Ранжирование комментариев с помощью ML Кабанда_page-0005](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/6a809cf9-d9cf-42ca-9f62-7703013e6b34)
+![Ранжирование комментариев с помощью ML Кабанда_page-0006](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/226c836c-baba-451e-82eb-fb7aae4ca710)
+![Ранжирование комментариев с помощью ML Кабанда_page-0007](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/10300d42-a4d7-47b5-b012-1d5299bb9da4)
+![Ранжирование комментариев с помощью ML Кабанда_page-0008](https://github.com/x-wheel-of-fortune/CupIT_2023/assets/35616551/5201461a-1d0f-42b5-84e8-3b526a73e20e)
 
 # Some of the EDA histograms
 Correlation between comment length and its rating (with 0 being the highest and 4 the lowest).
